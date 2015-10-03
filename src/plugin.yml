@@ -1,0 +1,11 @@
+name: AutoResponse
+main: com.gmail.malonnnnn.autoresponse.AutoResponse
+version: 0.001
+description: Set up afk messages
+commands:
+  setmessage:
+    description: Set the message
+  autorespond:
+    description: on/off
+  getmessage:
+    description: gets the message stored
